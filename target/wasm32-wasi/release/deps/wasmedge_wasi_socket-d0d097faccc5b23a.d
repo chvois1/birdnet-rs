@@ -1,0 +1,10 @@
+/home/s227840/tmp/birdnet-rs/target/wasm32-wasi/release/deps/wasmedge_wasi_socket-d0d097faccc5b23a.rmeta: /home/s227840/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmedge_wasi_socket-0.5.4/src/lib.rs /home/s227840/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmedge_wasi_socket-0.5.4/src/poll.rs /home/s227840/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmedge_wasi_socket-0.5.4/src/socket.rs /home/s227840/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmedge_wasi_socket-0.5.4/src/wasi_poll.rs
+
+/home/s227840/tmp/birdnet-rs/target/wasm32-wasi/release/deps/libwasmedge_wasi_socket-d0d097faccc5b23a.rlib: /home/s227840/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmedge_wasi_socket-0.5.4/src/lib.rs /home/s227840/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmedge_wasi_socket-0.5.4/src/poll.rs /home/s227840/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmedge_wasi_socket-0.5.4/src/socket.rs /home/s227840/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmedge_wasi_socket-0.5.4/src/wasi_poll.rs
+
+/home/s227840/tmp/birdnet-rs/target/wasm32-wasi/release/deps/wasmedge_wasi_socket-d0d097faccc5b23a.d: /home/s227840/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmedge_wasi_socket-0.5.4/src/lib.rs /home/s227840/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmedge_wasi_socket-0.5.4/src/poll.rs /home/s227840/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmedge_wasi_socket-0.5.4/src/socket.rs /home/s227840/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmedge_wasi_socket-0.5.4/src/wasi_poll.rs
+
+/home/s227840/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmedge_wasi_socket-0.5.4/src/lib.rs:
+/home/s227840/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmedge_wasi_socket-0.5.4/src/poll.rs:
+/home/s227840/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmedge_wasi_socket-0.5.4/src/socket.rs:
+/home/s227840/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasmedge_wasi_socket-0.5.4/src/wasi_poll.rs:
